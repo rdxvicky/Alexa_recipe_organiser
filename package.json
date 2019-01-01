@@ -1,0 +1,16 @@
+{
+  "name": "recipebook",
+  "version": "1.0.0",
+  "description": "helps organise and bookmark recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brijesh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.224.1",
+    "es6-promisify": "^6.0.0"
+  }
+}
